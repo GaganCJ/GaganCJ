@@ -9,14 +9,18 @@
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gagan.cj@cognizant.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
 ---
+
 ### 💻 About Me
 - 🔭 I’m currently working as a Software Engineer specialized in the **Spring Boot ecosystem** and **Core Java (8+)**.
 - ⚡ I'm passionate about building scalable microservices, orchestrating asynchronous workflows, and building cloud-native telemetry/logging architectures.
 - 🌱 I’m currently expanding my expertise in advanced event-driven systems and real-time anomaly detection logs.
 - 💬 Ask me about **Java, Spring Boot, AWS Lambdas, Docker/Rancher, and Elastic Stack/OpenSearch**.
 - 📫 How to reach me: Drop me a line on [LinkedIn](https://linkedin.com/) or send an [Email](mailto:gagan.cj@cognizant.com).
+
 ---
+
 ### 🛠️ Tech Stack & Skills
 <p align="left">
   <!-- Languages -->
@@ -40,17 +44,21 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+
 ### 💼 Work Experience
 - **Associate (Java Developer)** @ **Cognizant Technology Solutions** *(Jan 2023 - Present)*
   - Modernized internal microservices using Java/Spring Boot and migrated legacy stacks to Docker/Rancher.
   - Implemented event orchestration workflows via BPMN 2.0 and secured REST endpoints with Azure MSAL SSO.
 - **Project Engineer** @ **Wipro Limited** *(Aug 2019 - Jan 2023)*
   - Built Spring Boot APIs, telemetry pipelines on AWS (Lambdas, DynamoDB), and monitored transactions via the ELK Stack and OpenSearch.
+
 ### 🎓 Education & Certifications
 - **M.Tech in Networks and Cloud** | *BITS Pilani (Completed Jan 2023)*
 - **B.Tech in Data Science** | *PES University (Completed May 2019)*
 - **AWS Certified Cloud Practitioner** | *Amazon Web Services (Issued Sept 2022)*
+
 ---
+
 ### 📊 GitHub Statistics
 <p align="center">
   <!-- Replace "github-username" below with your actual GitHub username -->
