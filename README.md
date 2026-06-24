@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn" alt="Header Banner" />
-</p>
 <h1 align="center">Hi there, I'm Gagan C J! 👋</h1>
 <p align="center">
   <strong>Software Engineer | Spring Boot Developer | AWS Cloud Specialist</strong>
@@ -56,23 +53,6 @@
 - **M.Tech in Networks and Cloud** | *BITS Pilani (Completed Jan 2023)*
 - **B.Tech in Data Science** | *PES University (Completed May 2019)*
 - **AWS Certified Cloud Practitioner** | *Amazon Web Services (Issued Sept 2022)*
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <!-- Replace "github-username" below with your actual GitHub username -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://profile-counter.glitch.me/github-username/count.svg" alt="Profile Views Counter" />
-</p>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
